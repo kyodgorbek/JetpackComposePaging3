@@ -1,6 +1,3 @@
-# JetpackComposePaging3
-Finished App
-
 I've used following Technologies:
 Used following api https://api.punkapi.com
 
